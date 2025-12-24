@@ -1,5 +1,7 @@
 # LensCraft – Photography Portfolio Website Template
 
+![logo](Capture.PNG)
+
 LensCraft is a clean, modern, and fully responsive photography website template built for photographers, visual artists, and creatives to showcase their work professionally. The layout is image-focused, lightweight, and easy to customize.
 
 ---
