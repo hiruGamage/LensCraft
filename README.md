@@ -5,9 +5,7 @@ LensCraft is a clean, modern, and fully responsive photography website template 
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/lenscraft/
-
-> Replace this URL with your deployed site link (GitHub Pages / Netlify / Vercel).
+🔗 [lenscraft/](https://hirugamage.github.io/LensCraft/)
 
 ---
 
